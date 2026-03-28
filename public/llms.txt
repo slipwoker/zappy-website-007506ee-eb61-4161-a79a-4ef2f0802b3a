@@ -1,0 +1,45 @@
+# בני הממליץ — Generative Engine Optimization Map
+
+> A free sports tips group offering predictions and recommendations, emphasizing a strong recent success rate of 87% in the last month. The brand positions itself as a trustworthy and results-driven source for sports enthusiasts looking for free expert picks.
+
+---
+
+## Pages
+
+### בית
+https://-007506ee.zappy5.app
+A free sports tips group offering predictions and recommendations, emphasizing a strong recent success rate of 87% in the last month. The brand positions itself
+
+## Legal & Policy
+
+### Privacy Policy
+https://-007506ee.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-007506ee.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-007506ee.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בני הממליץ
+A free sports tips group offering predictions and recommendations, emphasizing a strong recent success rate of 87% in the last month. The brand positions itself as a trustworthy and results-driven source for sports enthusiasts looking for free expert picks.
+
+## Target Audience
+אוהדי ספורט המחפשים המלצות חינמיות
+
+## Industry
+ספורט / הימורי ספורט / טיפים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-007506ee.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-007506ee.zappy5.app/robots.txt
